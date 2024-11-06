@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pgpb9"
+    namespace = "com.example.frendy9map"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pgpb9"
+        applicationId = "com.example.frendy9map"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
