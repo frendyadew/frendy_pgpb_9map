@@ -1,4 +1,4 @@
-package com.example.pgpb9;
+package com.example.frendy9map;
 
 import org.junit.Test;
 

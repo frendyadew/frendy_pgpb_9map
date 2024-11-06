@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "pgpb9"
+rootProject.name = "frendy9map"
 include(":app")
  
